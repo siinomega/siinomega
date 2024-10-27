@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Sin !
 
-![Alt Text]([https://tenor.com/view/healing-chamber-goku-healing-gif-25361963](https://media.discordapp.net/attachments/1139660865784786944/1144849501882962010/D2F22533-DDCE-4AAF-8CA7-B8C475ADF771.gif?ex=671fba6f&is=671e68ef&hm=1f4ccdc4a44ae278431f47eb31d5587f1c6be0f4007927413e7e4f6d24c5ddd9&))
+![Alt Text](https://media.discordapp.net/attachments/972488991804899369/1129891915152764978/e40f454add8037ca64ba09ed0e66ac91.gif?ex=671f5d98&is=671e0c18&hm=7d8407297030bf489de04319eb825e4b4027733fc59376225cbcfde175adca8e&)
 
 -----
 
