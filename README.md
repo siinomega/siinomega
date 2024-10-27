@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Sin !
 
-![Alt Text](https://media.discordapp.net/attachments/972488991804899369/1129891915152764978/e40f454add8037ca64ba09ed0e66ac91.gif?ex=671f5d98&is=671e0c18&hm=7d8407297030bf489de04319eb825e4b4027733fc59376225cbcfde175adca8e&)
+![Alt Text](https://media1.tenor.com/m/bP2n8vuXr9YAAAAd/beast-gohan.gif)
 
 -----
 
