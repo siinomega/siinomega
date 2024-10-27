@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Sin !
 
-![Alt Text](https://i.imgur.com/8Nghoz5.gif)
+![Alt Text](https://tenor.com/view/healing-chamber-goku-healing-gif-25361963)
 
 -----
 
