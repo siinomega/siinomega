@@ -5,7 +5,7 @@
 -----
 
 ### 📋 ☆ About me :
-Hi, I'm Juzo, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
+Hi, I'm Sin, a programmer and cybersecurity enthusiast. I’m passionate about building efficient code and exploring security challenges. Check out my projects and join me in creating secure, high-performance solutions!
 
 -----
 
