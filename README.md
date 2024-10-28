@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Sin !
 
-![Alt Text](https://i.pinimg.com/originals/24/7f/a3/247fa3b2b5165a2f74369d587dedaaf8.gif)
+![Alt Text](https://c.tenor.com/db8Qgq_UpZMAAAAd/tenor.gif)
 
 -----
 
