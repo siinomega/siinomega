@@ -1,6 +1,6 @@
 ## 🍜 ☆ Hey i'm Sin !
 
-![Alt Text](https://media1.tenor.com/m/Dv51Sc_uo7IAAAAd/dragon-ball-super-super-hero-beast-gohan.gif)
+![Alt Text](./assets/dragon-ball-super-super-hero-beast-gohan.gif)
 
 -----
 
