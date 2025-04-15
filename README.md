@@ -23,7 +23,7 @@ Hi, I'm Sin, a programmer and cybersecurity enthusiast. I’m passionate about b
 
 ### 💻 ☆ Languages & Technologies :
 
-[![Languages](https://skillicons.dev/icons?i=python,rust)](https://skillicons.dev) <br />
+[![Languages](https://skillicons.dev/icons?i=python,rust,html,css,js)](https://skillicons.dev) <br />
 
 -----
 
