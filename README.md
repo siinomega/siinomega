@@ -23,7 +23,9 @@ Hi, I'm Sin, a programmer and cybersecurity enthusiast. I’m passionate about b
 
 ### 💻 ☆ Languages & Technologies :
 
-[![Languages](https://skillicons.dev/icons?i=python,rust,html,css,js,postman,mongodb)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=python,rust,html,css,js,typescript,vite)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=postman,mongodb,discord,github,gitlab,docker,pycharm)](https://skillicons.dev)
 
 -----
 
