@@ -16,10 +16,6 @@ Hi, I'm Sin, a programmer and cybersecurity enthusiast. I’m passionate about b
 
 -----
 
-### 📈 ☆ Github stats : 
-![Omega Github Stats](https://github-readme-stats.vercel.app/api?username=siinomega&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&text_color=c0deff&title_color=006FEE&icons_color=006FEE&locale=en&custom_title=Sin%27s%20Stats!)
-
------
 
 ### 💻 ☆ Languages & Technologies :
 
