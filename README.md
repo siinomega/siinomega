@@ -1,4 +1,4 @@
-## 🍜 ☆ Hey i'm Sin !
+## ⚡ ☆ Hey i'm Sin !
 
 ![Alt Text](https://c.tenor.com/p1kdhc3PGgUAAAAC/tenor.gif)
 
