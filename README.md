@@ -1,98 +1,106 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SIN%20OMEGA&fontSize=76&fontColor=E9D5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&color=0:050508,50:100820,100:050508&desc=SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20INTELLIGENCE&descSize=13&descColor=A78BFA&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=SIN%20OMEGA&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:090019,30:4C1D95,65:7C3AED,100:06B6D4&desc=DEVELOPMENT%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20CYBERSECURITY&descSize=13&descAlignY=60&descColor=E9D5FF" />
+
+<a href="https://github.com/siinomega">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sin+%E2%9A%A1;I+build.+I+experiment.+I+secure.;Development+%7C+AI+%7C+Cybersecurity;Turning+curiosity+into+code." alt="Animated introduction"/>
+</a>
 
 <br/>
 
-`[ DEVELOPER ]` &nbsp; ` [ SECURITY RESEARCHER ]` &nbsp; `[ SYSTEMS ENGINEERING ]`
-
-<br/>
-
-<a href="https://github.com/siinomega"><img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=flat-square&logo=github&logoColor=C4B5FD"/></a>
-<img src="https://img.shields.io/badge/RUST-0A0A0F?style=flat-square&logo=rust&logoColor=E9D5FF"/>
-<img src="https://img.shields.io/badge/PYTHON-0A0A0F?style=flat-square&logo=python&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/SECURITY-0A0A0F?style=flat-square&logo=kalilinux&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/DEVELOPMENT-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-06B6D4?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-F43F5E?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 <br/><br/>
 
-> *I don't just use the tools. I want to understand what's underneath.*
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/siinomega)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-18181B?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Hearthbleed)
+[![Root-Me](https://img.shields.io/badge/Root--Me-18181B?style=flat-square&logo=target&logoColor=white)](https://www.root-me.org/sin-omega)
 
 </div>
 
 ---
 
-### `01 / IDENTITY`
+<div align="center">
 
-```text
-SIN OMEGA
-────────────────────────────────────────
-ROLE       Developer / Security Enthusiast
-INTERESTS  Systems · Cybersecurity · AI
-LANGUAGES  Rust · Python · JavaScript
-MINDSET    Understand → Build → Optimize
-────────────────────────────────────────
+# <img src="https://img.shields.io/badge/01-ABOUT%20ME-8B5CF6?style=flat-square" />
+
+</div>
+
+```python
+class SinOmega:
+    interests = ["Development", "Artificial Intelligence", "Cybersecurity"]
+    languages = ["Rust", "Python", "JavaScript", "Bash"]
+    mindset = "Understand how things work."
+    objective = "Build. Explore. Improve."
 ```
 
-I build to understand. I break things in controlled environments to learn how they work. I explore the boundary between software, systems and security.
+I'm a developer and cybersecurity enthusiast fascinated by the technology behind the interface.
 
-My interests span low-level engineering, offensive security, automation and artificial intelligence.
+From writing software and exploring AI to understanding vulnerabilities and system internals, I enjoy learning by building, experimenting, and solving problems.
 
-No shortcuts. No black boxes when I can understand the internals.
+**My philosophy:** don't just use technology. Understand it.
 
 ---
 
-### `02 / CURRENT OPERATIONS`
+<div align="center">
+
+# <img src="https://img.shields.io/badge/02-THREE%20DOMAINS-06B6D4?style=flat-square" />
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**<code>01 — SYSTEMS</code>**
+<img src="https://img.shields.io/badge/01-DEVELOPMENT-8B5CF6?style=for-the-badge" />
 
-### NIA-rs
+<br/><br/>
 
-A Rust project focused on understanding GGUF models and building the foundations of a local inference engine from scratch.
+<img src="https://skillicons.dev/icons?i=rust,python,js&theme=dark" />
 
-`RUST` `GGUF` `LLM INFERENCE`
+### `BUILD`
 
-<a href="https://github.com/siinomega">Explore my repositories ↗</a>
+Crafting software, exploring programming languages, and writing efficient, maintainable code.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**<code>02 — SECURITY</code>**
-
-### Offensive Security
-
-Hands-on learning through CTF platforms, vulnerability analysis and security challenges in authorized environments.
-
-`WEB SECURITY` `LINUX` `CTF`
-
-<a href="https://tryhackme.com/p/Hearthbleed">TryHackMe ↗</a>
+<img src="https://img.shields.io/badge/CODE-8B5CF6?style=flat-square" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**<code>03 — ENGINEERING</code>**
+<img src="https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-06B6D4?style=for-the-badge" />
 
-### Development
+<br/><br/>
 
-Building software and tools with a focus on performance, readable code and understanding the underlying mechanisms.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 
-`RUST` `PYTHON` `BASH`
+### `INTELLIGENCE`
+
+Exploring machine learning, neural networks, local models, and the engineering behind AI.
+
+<br/>
+
+<img src="https://img.shields.io/badge/LEARN-06B6D4?style=flat-square" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**<code>04 — INTELLIGENCE</code>**
+<img src="https://img.shields.io/badge/03-CYBERSECURITY-F43F5E?style=for-the-badge" />
 
-### Artificial Intelligence
+<br/><br/>
 
-Exploring local language models, inference, model architectures and the engineering behind AI systems.
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
 
-`LLMs` `LOCAL AI` `MACHINE LEARNING`
+### `SECURE`
+
+Learning offensive security, investigating vulnerabilities, and developing practical security skills.
+
+<br/>
+
+<img src="https://img.shields.io/badge/EXPLORE-F43F5E?style=flat-square" />
 
 </td>
 </tr>
@@ -100,61 +108,21 @@ Exploring local language models, inference, model architectures and the engineer
 
 ---
 
-### `03 / ARSENAL`
-
 <div align="center">
 
-**LANGUAGES**
+# <img src="https://img.shields.io/badge/03-TECH%20ARSENAL-F59E0B?style=flat-square" />
 
-<img src="https://skillicons.dev/icons?i=rust,python,bash,html,css,js&theme=dark" />
+### Languages
 
-**DEVELOPMENT & INFRASTRUCTURE**
+<img src="https://skillicons.dev/icons?i=rust,python,html,css,js,bash&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,postman,vite&theme=dark" />
+### Tools & Technologies
 
-**OPERATING SYSTEMS**
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,postman,vite,discord&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,mint,windows&theme=dark" />
+### Operating Systems
 
-</div>
-
----
-
-### `04 / ATTACK SURFACE`
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/Hearthbleed">
-<img src="https://img.shields.io/badge/TRYHACKME-Explore%20labs-0A0A0F?style=for-the-badge&logo=tryhackme&logoColor=E9D5FF&labelColor=0A0A0F" />
-</a>
-
-<a href="https://app.hackthebox.com/profile/overview">
-<img src="https://img.shields.io/badge/HACK%20THE%20BOX-CTF-0A0A0F?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&labelColor=0A0A0F" />
-</a>
-
-<a href="https://www.root-me.org/sin-omega">
-<img src="https://img.shields.io/badge/ROOT--ME-Challenges-0A0A0F?style=for-the-badge&logo=target&logoColor=C4B5FD&labelColor=0A0A0F" />
-</a>
-
-</div>
-
-```text
-[ RECON ] ──> [ ANALYSIS ] ──> [ EXPLOITATION ] ──> [ UNDERSTANDING ]
-```
-
----
-
-### `05 / GITHUB TELEMETRY`
-
-<div align="center">
-
-<a href="https://github.com/siinomega">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=siinomega&show_icons=true&hide_border=true&bg_color=050508&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&hide_title=false" />
-</a>
-
-<a href="https://github.com/siinomega">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinomega&layout=compact&hide_border=true&bg_color=050508&title_color=A78BFA&text_color=D4D4D8" />
-</a>
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,mint&theme=dark" />
 
 </div>
 
@@ -162,16 +130,62 @@ Exploring local language models, inference, model architectures and the engineer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6&section=footer" width="100%"/>
+# <img src="https://img.shields.io/badge/04-CTF%20ZONE-F43F5E?style=flat-square" />
 
-`STAY CURIOUS.` &nbsp; `THINK DEEPER.` &nbsp; `BUILD BETTER.`
-
-<br/>
-
-<a href="https://github.com/siinomega">GITHUB</a> &nbsp; // &nbsp; <a href="https://www.root-me.org/sin-omega">ROOT-ME</a> &nbsp; // &nbsp; <a href="https://tryhackme.com/p/Hearthbleed">TRYHACKME</a>
+*Learn the system. Find the weakness. Understand the exploit.*
 
 <br/><br/>
 
-<sub>SIINOMEGA © 2026 · ENGINEER YOUR UNDERSTANDING.</sub>
+<a href="https://tryhackme.com/p/Hearthbleed">
+<img src="https://img.shields.io/badge/TRYHACKME-ROOMS%20%26%20CHALLENGES-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://app.hackthebox.com/profile/overview">
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-OFFENSIVE%20SECURITY-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.root-me.org/sin-omega">
+<img src="https://img.shields.io/badge/ROOT--ME-TECHNICAL%20CHALLENGES-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# <img src="https://img.shields.io/badge/05-GITHUB%20STATS-A78BFA?style=flat-square" />
+
+<a href="https://github.com/siinomega">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=siinomega&show_icons=true&hide_border=true&bg_color=0D071A&title_color=C4B5FD&icon_color=22D3EE&text_color=E4E4E7&ring_color=F472B6" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/siinomega">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinomega&layout=compact&hide_border=true&bg_color=0D071A&title_color=22D3EE&text_color=E4E4E7" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&bg_color=0D071A&color=C4B5FD&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="Contribution activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,40:7C3AED,75:4C1D95,100:090019&animation=twinkling"/>
+
+### <span>BUILD</span> &nbsp; <span>LEARN</span> &nbsp; <span>BREAK</span> &nbsp; <span>REPEAT</span>
+
+`DEVELOPMENT` &nbsp; ◈ &nbsp; `AI` &nbsp; ◈ &nbsp; `CYBERSECURITY`
+
+<br/>
+
+<sub>Curiosity is the starting point. Engineering is the process.</sub>
 
 </div>
