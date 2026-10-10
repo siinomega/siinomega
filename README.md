@@ -1,191 +1,206 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=SIN%20OMEGA&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:090019,30:4C1D95,65:7C3AED,100:06B6D4&desc=DEVELOPMENT%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20CYBERSECURITY&descSize=13&descAlignY=60&descColor=E9D5FF" />
-
-<a href="https://github.com/siinomega">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sin+%E2%9A%A1;I+build.+I+experiment.+I+secure.;Development+%7C+AI+%7C+Cybersecurity;Turning+curiosity+into+code." alt="Animated introduction"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/DEVELOPMENT-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-06B6D4?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-F43F5E?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/siinomega)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-18181B?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Hearthbleed)
-[![Root-Me](https://img.shields.io/badge/Root--Me-18181B?style=flat-square&logo=target&logoColor=white)](https://www.root-me.org/sin-omega)
-
-</div>
-
----
+<!--
+  SIN OMEGA / VIOLET + ASCII
+  Copy README.md and the assets/ directory to your profile repository.
+  Export Kyoto Dusk using [gif] at https://ascii.rest/kyoto-dusk/
+  and save it as assets/omega-banner.gif. The GIF is not included in this pack.
+  The OMEGA title below is separate from the animation, not overlaid on it.
+-->
 
 <div align="center">
 
-# <img src="https://img.shields.io/badge/01-ABOUT%20ME-8B5CF6?style=flat-square" />
+  <a href="https://ascii.rest/kyoto-dusk/">
+    <img src="./assets/omega-banner.gif" width="100%" alt="Kyoto Dusk — animated ASCII landscape by ascii.rest" />
+  </a>
+
+  <br />
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/banner/OMEGA.dark.svg?color=C4B5FD,8B5CF6&amp;font=bold&amp;shadow=none&amp;effect=still&amp;size=l" />
+    <img src="https://ascii.rest/banner/OMEGA.svg?color=7C3AED,5B21B6&amp;font=bold&amp;shadow=none&amp;effect=still&amp;size=l" width="450" alt="OMEGA — purple ASCII lettering" />
+  </picture>
+
+  <p><strong>SIN OMEGA</strong> &nbsp; / &nbsp; <code>@siinomega</code></p>
+
+  <h3>Build with curiosity. Understand the system.</h3>
+
+  <p>
+    <code>DEV</code> &nbsp; / &nbsp;
+    <code>CYBERSEC</code> &nbsp; / &nbsp;
+    <code>AI</code>
+  </p>
+
+  <p>
+    <a href="#about">About</a> &nbsp; / &nbsp;
+    <a href="#projects">Projects</a> &nbsp; / &nbsp;
+    <a href="#stack">Stack</a> &nbsp; / &nbsp;
+    <a href="#security">Security</a>
+  </p>
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<a name="about"></a>
+
+## 01 / Behind the handle
+
+I'm **Sin** — a developer and cybersecurity enthusiast drawn to what happens beneath the interface.
+
+I build with **Rust, Python, JavaScript and Bash**, explore artificial intelligence, and learn security through experimentation. From software and local models to vulnerabilities and system internals, I like turning questions into something I can test.
+
+> **Don't just use technology. Understand it.**
+
+<details>
+<summary><code>$ cat about_me.py</code></summary>
+
 ```python
 class SinOmega:
-    interests = ["Development", "Artificial Intelligence", "Cybersecurity"]
+    interests = ["Development", "Cybersecurity", "Artificial Intelligence"]
     languages = ["Rust", "Python", "JavaScript", "Bash"]
     mindset = "Understand how things work."
     objective = "Build. Explore. Improve."
 ```
 
-I'm a developer and cybersecurity enthusiast fascinated by the technology behind the interface.
+</details>
 
-From writing software and exploring AI to understanding vulnerabilities and system internals, I enjoy learning by building, experimenting, and solving problems.
+<br />
 
-**My philosophy:** don't just use technology. Understand it.
+## 02 / Three domains. One mindset.
 
----
+<p align="center">
+  <img src="./assets/development.svg" width="270" alt="Development — tools, automation and software; learning through clean code and hands-on experimentation. Rust, Python and JavaScript." />
+  <img src="./assets/cybersecurity.svg" width="270" alt="Cybersecurity — systems, vulnerabilities and CTFs; understanding how things fail to learn how to secure them. Linux, Bash and security labs." />
+  <img src="./assets/artificial-intelligence.svg" width="270" alt="AI and models — exploring machine learning, local AI, neural networks and the engineering behind them. Python, PyTorch and TensorFlow." />
+</p>
 
-<div align="center">
+<a name="projects"></a>
 
-# <img src="https://img.shields.io/badge/02-THREE%20DOMAINS-06B6D4?style=flat-square" />
+## 03 / Selected projects
 
-</div>
+Learning by building — from HTTP tooling to Linux system exploration.
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+<p align="center">
+  <a href="https://github.com/siinomega/Rust-Curl"><img src="./assets/project-rust-curl.svg" width="408" alt="Rust-Curl — a lightweight Rust HTTP client to send requests, customize headers and save responses. Open the repository." /></a>
+  <a href="https://github.com/siinomega/SysEnum"><img src="./assets/project-sysenum.svg" width="408" alt="SysEnum — a Bash toolkit for Linux system enumeration, with an extensible script for security labs. Open the repository." /></a>
+</p>
 
-<img src="https://img.shields.io/badge/01-DEVELOPMENT-8B5CF6?style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/siinomega?tab=repositories"><strong>Explore all repositories ↗</strong></a>
+</p>
 
-<br/><br/>
+<a name="stack"></a>
 
-<img src="https://skillicons.dev/icons?i=rust,python,js&theme=dark" />
-
-### `BUILD`
-
-Crafting software, exploring programming languages, and writing efficient, maintainable code.
-
-<br/>
-
-<img src="https://img.shields.io/badge/CODE-8B5CF6?style=flat-square" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/02-ARTIFICIAL%20INTELLIGENCE-06B6D4?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-
-### `INTELLIGENCE`
-
-Exploring machine learning, neural networks, local models, and the engineering behind AI.
-
-<br/>
-
-<img src="https://img.shields.io/badge/LEARN-06B6D4?style=flat-square" />
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/03-CYBERSECURITY-F43F5E?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
-
-### `SECURE`
-
-Learning offensive security, investigating vulnerabilities, and developing practical security skills.
-
-<br/>
-
-<img src="https://img.shields.io/badge/EXPLORE-F43F5E?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# <img src="https://img.shields.io/badge/03-TECH%20ARSENAL-F59E0B?style=flat-square" />
+## 04 / Tools of the trade
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=rust,python,html,css,js,bash&theme=dark" />
+<p>
+  <img src="./assets/stack/rust.svg" height="32" alt="Rust" />
+  <img src="./assets/stack/python.svg" height="32" alt="Python" />
+  <img src="./assets/stack/javascript.svg" height="32" alt="JavaScript" />
+  <img src="./assets/stack/bash.svg" height="32" alt="Bash" />
+  <img src="./assets/stack/html.svg" height="32" alt="HTML" />
+  <img src="./assets/stack/css.svg" height="32" alt="CSS" />
+</p>
 
-### Tools & Technologies
+### AI exploration
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,postman,vite,discord&theme=dark" />
+<p>
+  <img src="./assets/stack/pytorch.svg" height="32" alt="PyTorch" />
+  <img src="./assets/stack/tensorflow.svg" height="32" alt="TensorFlow" />
+</p>
 
-### Operating Systems
+### Tools & technologies
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,debian,mint&theme=dark" />
+<p>
+  <img src="./assets/stack/git.svg" height="32" alt="Git" />
+  <img src="./assets/stack/github.svg" height="32" alt="GitHub" />
+  <img src="./assets/stack/gitlab.svg" height="32" alt="GitLab" />
+  <img src="./assets/stack/docker.svg" height="32" alt="Docker" />
+  <img src="./assets/stack/mongodb.svg" height="32" alt="MongoDB" />
+  <img src="./assets/stack/postman.svg" height="32" alt="Postman" />
+  <img src="./assets/stack/vite.svg" height="32" alt="Vite" />
+  <img src="./assets/stack/discord.svg" height="32" alt="Discord" />
+</p>
 
-</div>
+<details>
+<summary><strong>Operating systems</strong></summary>
 
----
+<br />
+
+<p>
+  <img src="./assets/stack/linux.svg" height="32" alt="Linux" />
+  <img src="./assets/stack/kali.svg" height="32" alt="Kali Linux" />
+  <img src="./assets/stack/ubuntu.svg" height="32" alt="Ubuntu" />
+  <img src="./assets/stack/debian.svg" height="32" alt="Debian" />
+  <img src="./assets/stack/mint.svg" height="32" alt="Linux Mint" />
+  <img src="./assets/stack/windows.svg" height="32" alt="Windows" />
+</p>
+
+</details>
+
+<br />
+
+<a name="security"></a>
+
+## 05 / Security lab
+
+Learning through **CTFs, hands-on challenges and authorized labs** — understanding the system, finding the weakness, and learning why it exists.
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Hearthbleed"><img src="./assets/tryhackme.svg" width="270" alt="TryHackMe — my Hearthbleed profile" /></a>
+  <a href="https://www.root-me.org/sin-omega"><img src="./assets/root-me.svg" width="270" alt="Root-Me — my sin-omega profile" /></a>
+  <a href="https://www.hackthebox.com/"><img src="./assets/hackthebox.svg" width="270" alt="Hack The Box — training platform, not a personal profile link" /></a>
+</p>
+
+<!-- Replace the Hack The Box website URL above with your public profile URL when available. -->
+
+<p align="center">
+  <code>Web security</code> &nbsp; <code>Linux internals</code> &nbsp; <code>Enumeration</code>
+</p>
+
+<br />
+
+## 06 / Activity
+
+<details>
+<summary><strong>Open GitHub statistics & contribution activity</strong></summary>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/siinomega"><img width="420" src="https://github-stats-extended.vercel.app/api?username=siinomega&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_color=302B40&amp;bg_color=111019&amp;title_color=B69BE8&amp;icon_color=B69BE8&amp;text_color=C4BDCF&amp;border_radius=12&amp;custom_title=GitHub+activity" alt="Sin Omega's public GitHub statistics" /></a>
+  <a href="https://github.com/siinomega"><img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siinomega&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_color=302B40&amp;bg_color=111019&amp;title_color=B69BE8&amp;text_color=C4BDCF&amp;border_radius=12&amp;custom_title=Languages+in+public+code" alt="Language distribution across public repositories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/siinomega"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&amp;bg_color=111019&amp;color=C4BDCF&amp;line=A78BFA&amp;point=B69BE8&amp;area=true&amp;area_color=40305E&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution+activity" alt="GitHub contribution activity graph" /></a>
+</p>
+
+<p align="center">
+  <sub>Language usage reflects repository code, not a proficiency ranking.<br />Statistics are provided by external services and may be cached or temporarily unavailable.</sub>
+</p>
+
+</details>
+
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-# <img src="https://img.shields.io/badge/04-CTF%20ZONE-F43F5E?style=flat-square" />
+  <img src="./assets/endmark.svg" width="108" height="40" alt="Omega" />
 
-*Learn the system. Find the weakness. Understand the exploit.*
+  <h3>Stay curious. Keep building.</h3>
 
-<br/><br/>
+  <p><sub>Development &nbsp; / &nbsp; Cybersecurity &nbsp; / &nbsp; Artificial Intelligence</sub></p>
 
-<a href="https://tryhackme.com/p/Hearthbleed">
-<img src="https://img.shields.io/badge/TRYHACKME-ROOMS%20%26%20CHALLENGES-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
+  <a href="https://github.com/siinomega"><sub>@siinomega</sub></a>
 
-<br/><br/>
+  <br />
+  <br />
 
-<a href="https://app.hackthebox.com/profile/overview">
-<img src="https://img.shields.io/badge/HACK%20THE%20BOX-OFFENSIVE%20SECURITY-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.root-me.org/sin-omega">
-<img src="https://img.shields.io/badge/ROOT--ME-TECHNICAL%20CHALLENGES-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# <img src="https://img.shields.io/badge/05-GITHUB%20STATS-A78BFA?style=flat-square" />
-
-<a href="https://github.com/siinomega">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=siinomega&show_icons=true&hide_border=true&bg_color=0D071A&title_color=C4B5FD&icon_color=22D3EE&text_color=E4E4E7&ring_color=F472B6" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/siinomega">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinomega&layout=compact&hide_border=true&bg_color=0D071A&title_color=22D3EE&text_color=E4E4E7" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&bg_color=0D071A&color=C4B5FD&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="Contribution activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,40:7C3AED,75:4C1D95,100:090019&animation=twinkling"/>
-
-### <span>BUILD</span> &nbsp; <span>LEARN</span> &nbsp; <span>BREAK</span> &nbsp; <span>REPEAT</span>
-
-`DEVELOPMENT` &nbsp; ◈ &nbsp; `AI` &nbsp; ◈ &nbsp; `CYBERSECURITY`
-
-<br/>
-
-<sub>Curiosity is the starting point. Engineering is the process.</sub>
+  <sub>ASCII art: <a href="https://ascii.rest/kyoto-dusk/">Kyoto Dusk</a> by <a href="https://github.com/bas3line">bas3line</a>.</sub>
 
 </div>
