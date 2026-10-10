@@ -130,10 +130,6 @@ Let's connect.
   <img src="https://img.shields.io/badge/CTF-Let's%20hack-09090f?style=for-the-badge&logo=tryhackme&logoColor=red" alt="CTF profile" />
 </a>
 
-<br/><br/>
-
-<img src="https://c.tenor.com/p1kdhc3PGgUAAAAC/tenor.gif" width="320" alt="Animated profile GIF" />
-
 <br/>
 
 **`01010011 01001001 01001110`**
