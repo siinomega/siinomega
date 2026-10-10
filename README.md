@@ -1,141 +1,177 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:4c1d95,100:8b5cf6&height=220&section=header&text=SIN%20OMEGA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20UNDERSTAND&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
-
-<a href="https://github.com/siinomega">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sin+%E2%9A%A1;Developer+%7C+Cybersecurity+Enthusiast;Rust+%7C+Python+%7C+Offensive+Security;Breaking+things+to+understand+them." alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SIN%20OMEGA&fontSize=76&fontColor=E9D5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&color=0:050508,50:100820,100:050508&desc=SYSTEMS%20%E2%80%A2%20SECURITY%20%E2%80%A2%20INTELLIGENCE&descSize=13&descColor=A78BFA&descAlignY=72" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siinomega)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-09090f?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Hearthbleed)
-[![Root Me](https://img.shields.io/badge/Root--Me-09090f?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.root-me.org/sin-omega)
+`[ DEVELOPER ]` &nbsp; ` [ SECURITY RESEARCHER ]` &nbsp; `[ SYSTEMS ENGINEERING ]`
 
-<img src="https://komarev.com/ghpvc/?username=siinomega&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+<br/>
+
+<a href="https://github.com/siinomega"><img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=flat-square&logo=github&logoColor=C4B5FD"/></a>
+<img src="https://img.shields.io/badge/RUST-0A0A0F?style=flat-square&logo=rust&logoColor=E9D5FF"/>
+<img src="https://img.shields.io/badge/PYTHON-0A0A0F?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/SECURITY-0A0A0F?style=flat-square&logo=kalilinux&logoColor=C4B5FD"/>
+
+<br/><br/>
+
+> *I don't just use the tools. I want to understand what's underneath.*
 
 </div>
 
 ---
 
-## `01` — WHOAMI
+### `01 / IDENTITY`
 
-```console
-┌──(sin㉿omega)-[~]
-└─$ whoami
-
-Developer. Security enthusiast. Problem solver.
+```text
+SIN OMEGA
+────────────────────────────────────────
+ROLE       Developer / Security Enthusiast
+INTERESTS  Systems · Cybersecurity · AI
+LANGUAGES  Rust · Python · JavaScript
+MINDSET    Understand → Build → Optimize
+────────────────────────────────────────
 ```
 
-Hey, I'm **Sin**, a programmer passionate about understanding how things work — and how they break.
+I build to understand. I break things in controlled environments to learn how they work. I explore the boundary between software, systems and security.
 
-I enjoy building efficient software, exploring low-level concepts, experimenting with systems, and learning offensive security through hands-on challenges.
+My interests span low-level engineering, offensive security, automation and artificial intelligence.
 
-- ⚡ **Focus:** Software engineering & cybersecurity
-- 🦀 **Favorite tools:** Rust, Python & Linux
-- 🔐 **Currently exploring:** CTFs, web security & system internals
-- 🧠 **Mindset:** Understand the internals, not just the interface
-- 🛠️ **Goal:** Build things that are fast, reliable and secure
-
-> *Curiosity is the exploit. Knowledge is the payload.*
+No shortcuts. No black boxes when I can understand the internals.
 
 ---
 
-## `02` — TECH STACK
+### `02 / CURRENT OPERATIONS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**<code>01 — SYSTEMS</code>**
+
+### NIA-rs
+
+A Rust project focused on understanding GGUF models and building the foundations of a local inference engine from scratch.
+
+`RUST` `GGUF` `LLM INFERENCE`
+
+<a href="https://github.com/siinomega">Explore my repositories ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**<code>02 — SECURITY</code>**
+
+### Offensive Security
+
+Hands-on learning through CTF platforms, vulnerability analysis and security challenges in authorized environments.
+
+`WEB SECURITY` `LINUX` `CTF`
+
+<a href="https://tryhackme.com/p/Hearthbleed">TryHackMe ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<code>03 — ENGINEERING</code>**
+
+### Development
+
+Building software and tools with a focus on performance, readable code and understanding the underlying mechanisms.
+
+`RUST` `PYTHON` `BASH`
+
+</td>
+<td width="50%" valign="top">
+
+**<code>04 — INTELLIGENCE</code>**
+
+### Artificial Intelligence
+
+Exploring local language models, inference, model architectures and the engineering behind AI systems.
+
+`LLMs` `LOCAL AI` `MACHINE LEARNING`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `03 / ARSENAL`
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=rust,python,html,css,js,bash&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=rust,python,bash,html,css,js&theme=dark" />
 
-### Tools & Technologies
+**DEVELOPMENT & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,postman,vite,discord&theme=dark" alt="Tools and technologies" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mongodb,postman,vite&theme=dark" />
 
-### Environment
+**OPERATING SYSTEMS**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,debian,kali,windows&theme=dark" alt="Operating systems" />
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian,mint,windows&theme=dark" />
 
 </div>
 
 ---
 
-## `03` — OFFENSIVE SECURITY
+### `04 / ATTACK SURFACE`
 
 <div align="center">
 
-*Learn. Enumerate. Exploit. Understand.*
-
-<br/>
-
 <a href="https://tryhackme.com/p/Hearthbleed">
-  <img src="https://img.shields.io/badge/TryHackMe-Explore%20Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/TRYHACKME-Explore%20labs-0A0A0F?style=for-the-badge&logo=tryhackme&logoColor=E9D5FF&labelColor=0A0A0F" />
 </a>
+
 <a href="https://app.hackthebox.com/profile/overview">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Practice-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="Hack The Box" />
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-CTF-0A0A0F?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&labelColor=0A0A0F" />
 </a>
+
 <a href="https://www.root-me.org/sin-omega">
-  <img src="https://img.shields.io/badge/Root--Me-Train%20Your%20Skills-3D3D3D?style=for-the-badge&logo=target&logoColor=white" alt="Root-Me" />
+<img src="https://img.shields.io/badge/ROOT--ME-Challenges-0A0A0F?style=for-the-badge&logo=target&logoColor=C4B5FD&labelColor=0A0A0F" />
 </a>
 
 </div>
 
-My security interests include:
-
-- **Web security** — vulnerabilities, request analysis and application internals
-- **Offensive security** — reconnaissance, enumeration and exploitation in authorized labs
-- **CTF challenges** — solving problems and learning new techniques
-- **Linux & systems** — command-line tooling, scripting and system behavior
+```text
+[ RECON ] ──> [ ANALYSIS ] ──> [ EXPLOITATION ] ──> [ UNDERSTANDING ]
+```
 
 ---
 
-## `04` — GITHUB ANALYTICS
+### `05 / GITHUB TELEMETRY`
 
 <div align="center">
 
 <a href="https://github.com/siinomega">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siinomega&show_icons=true&hide_border=true&bg_color=09090f&title_color=a78bfa&icon_color=8b5cf6&text_color=e4e4e7&ring_color=8b5cf6" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=siinomega&show_icons=true&hide_border=true&bg_color=050508&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&hide_title=false" />
 </a>
+
 <a href="https://github.com/siinomega">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinomega&layout=compact&hide_border=true&bg_color=09090f&title_color=a78bfa&text_color=e4e4e7" alt="Most used languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siinomega&layout=compact&hide_border=true&bg_color=050508&title_color=A78BFA&text_color=D4D4D8" />
 </a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=siinomega&hide_border=true&background=09090f&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e4e4e7&currStreakNum=ffffff&sideNums=ffffff&dates=71717a" alt="GitHub contribution streak" width="70%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&bg_color=09090f&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## `05` — CONNECT
-
 <div align="center">
 
-Got an interesting project, a challenging bug, or a security problem worth investigating?
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6&section=footer" width="100%"/>
 
-Let's connect.
-
-<br/>
-
-<a href="https://github.com/siinomega">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://tryhackme.com/p/Hearthbleed">
-  <img src="https://img.shields.io/badge/CTF-Let's%20hack-09090f?style=for-the-badge&logo=tryhackme&logoColor=red" alt="CTF profile" />
-</a>
+`STAY CURIOUS.` &nbsp; `THINK DEEPER.` &nbsp; `BUILD BETTER.`
 
 <br/>
 
-**`01010011 01001001 01001110`**
+<a href="https://github.com/siinomega">GITHUB</a> &nbsp; // &nbsp; <a href="https://www.root-me.org/sin-omega">ROOT-ME</a> &nbsp; // &nbsp; <a href="https://tryhackme.com/p/Hearthbleed">TRYHACKME</a>
 
-<sub>Crafted with curiosity · Powered by caffeine · Secured by paranoia</sub>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:4c1d95,100:09090f&height=100&section=footer" width="100%" />
+<sub>SIINOMEGA © 2026 · ENGINEER YOUR UNDERSTANDING.</sub>
 
 </div>
