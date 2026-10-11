@@ -59,11 +59,6 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 <br />
 
 <p align="center">
-  <a href="https://github.com/siinomega"><img width="420" src="https://github-stats-extended.vercel.app/api?username=siinomega&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_color=2A333E&amp;bg_color=10151C&amp;title_color=B59AE5&amp;icon_color=B59AE5&amp;text_color=B8C1CC&amp;border_radius=12&amp;custom_title=GitHub+activity" alt="Sin Omega's public GitHub statistics" /></a>
-  <a href="https://github.com/siinomega"><img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siinomega&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_color=2A333E&amp;bg_color=10151C&amp;title_color=B59AE5&amp;text_color=B8C1CC&amp;border_radius=12&amp;custom_title=Languages+in+public+code" alt="Language distribution across public repositories" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/siinomega"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&amp;bg_color=10151C&amp;color=B8C1CC&amp;line=9B7BCB&amp;point=B59AE5&amp;area=true&amp;area_color=493A62&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution+activity" alt="GitHub contribution activity graph" /></a>
 </p>
 
