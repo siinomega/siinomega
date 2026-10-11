@@ -56,12 +56,6 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
   <a href="https://www.hackthebox.com/"><img src="./assets/hackthebox.svg" width="270" alt="Hack The Box — training platform, not a personal profile link" /></a>
 </p>
 
-<br />
-
-<p align="center">
-  <a href="https://github.com/siinomega"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&amp;bg_color=10151C&amp;color=B8C1CC&amp;line=9B7BCB&amp;point=B59AE5&amp;area=true&amp;area_color=493A62&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution+activity" alt="GitHub contribution activity graph" /></a>
-</p>
-
 <p align="center">
   <sub>Language usage reflects repository code, not a proficiency ranking.<br />Statistics are provided by external services and may be cached or temporarily unavailable.</sub>
 </p>
