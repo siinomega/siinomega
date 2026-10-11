@@ -64,7 +64,7 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 
 <br />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center">
 
   <img src="./assets/endmark.svg" width="108" height="40" alt="Omega" />
 
