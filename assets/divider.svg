@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="img" aria-labelledby="title desc">
+<title id="title">Section divider</title>
+<desc id="desc">A subtle copper line on a transparent background.</desc>
+<path d="M0 12H900" stroke="#2A333E"/><path d="M0 12H72l7-4h25" fill="none" stroke="#B59AE5"/><rect x="112" y="7" width="3" height="3" fill="#B59AE5"/>
+</svg>

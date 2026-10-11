@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="78" viewBox="0 0 270 78" role="img" aria-labelledby="title desc">
+<title id="title">TryHackMe</title>
+<desc id="desc">TryHackMe — Hearthbleed</desc>
+<rect x=".5" y=".5" width="269" height="77" rx="10" fill="#10151C" stroke="#2A333E"/><rect x="16" y="19" width="42" height="40" rx="7" fill="#131A22" stroke="#2A333E"/><text x="37" y="43" font-family="&#x27;Courier New&#x27;, Courier, monospace" font-size="11.5" font-weight="700" fill="#B59AE5" text-anchor="middle">THM</text><text x="72" y="34" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F0F3F6" >TryHackMe</text><text x="72" y="55" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#8895A5" >Hearthbleed</text><text x="240" y="29" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#B59AE5" >↗</text>
+</svg>
