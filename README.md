@@ -72,14 +72,6 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
   <img src="./assets/endmark.svg" width="108" height="40" alt="Omega" />
-
-  <h3>Stay curious. Keep building.</h3>
-
-  <p><sub>Development &nbsp; / &nbsp; Cybersecurity &nbsp; / &nbsp; Artificial Intelligence</sub></p>
-
-  <a href="https://github.com/siinomega"><sub>@siinomega</sub></a>
 
 </div>
