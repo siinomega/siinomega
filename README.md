@@ -1,41 +1,11 @@
-<!--
-  SIN OMEGA / VIOLET + ASCII
-  Copy README.md and the assets/ directory to your profile repository.
-  Export Kyoto Dusk using [gif] at https://ascii.rest/kyoto-dusk/
-  and save it as assets/omega-banner.gif. The GIF is not included in this pack.
-  The OMEGA title below is separate from the animation, not overlaid on it.
--->
-
 <div align="center">
 
   <a href="https://ascii.rest/kyoto-dusk/">
-    <img src="./assets/omega-banner.gif" width="100%" alt="Kyoto Dusk — animated ASCII landscape by ascii.rest" />
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/kyoto-dusk.png" />
+      <img src="./assets/kyoto-dusk.gif" width="100%" alt="Kyoto Dusk by ascii.rest — an animated ASCII scene with a cherry tree, a pagoda, a crescent moon and a stone lantern." />
+    </picture>
   </a>
-
-  <br />
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/banner/OMEGA.dark.svg?color=C4B5FD,8B5CF6&amp;font=bold&amp;shadow=none&amp;effect=still&amp;size=l" />
-    <img src="https://ascii.rest/banner/OMEGA.svg?color=7C3AED,5B21B6&amp;font=bold&amp;shadow=none&amp;effect=still&amp;size=l" width="450" alt="OMEGA — purple ASCII lettering" />
-  </picture>
-
-  <p><strong>SIN OMEGA</strong> &nbsp; / &nbsp; <code>@siinomega</code></p>
-
-  <h3>Build with curiosity. Understand the system.</h3>
-
-  <p>
-    <code>DEV</code> &nbsp; / &nbsp;
-    <code>CYBERSEC</code> &nbsp; / &nbsp;
-    <code>AI</code>
-  </p>
-
-  <p>
-    <a href="#about">About</a> &nbsp; / &nbsp;
-    <a href="#projects">Projects</a> &nbsp; / &nbsp;
-    <a href="#stack">Stack</a> &nbsp; / &nbsp;
-    <a href="#security">Security</a>
-  </p>
 
 </div>
 
@@ -74,24 +44,9 @@ class SinOmega:
   <img src="./assets/artificial-intelligence.svg" width="270" alt="AI and models — exploring machine learning, local AI, neural networks and the engineering behind them. Python, PyTorch and TensorFlow." />
 </p>
 
-<a name="projects"></a>
-
-## 03 / Selected projects
-
-Learning by building — from HTTP tooling to Linux system exploration.
-
-<p align="center">
-  <a href="https://github.com/siinomega/Rust-Curl"><img src="./assets/project-rust-curl.svg" width="408" alt="Rust-Curl — a lightweight Rust HTTP client to send requests, customize headers and save responses. Open the repository." /></a>
-  <a href="https://github.com/siinomega/SysEnum"><img src="./assets/project-sysenum.svg" width="408" alt="SysEnum — a Bash toolkit for Linux system enumeration, with an extensible script for security labs. Open the repository." /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/siinomega?tab=repositories"><strong>Explore all repositories ↗</strong></a>
-</p>
-
 <a name="stack"></a>
 
-## 04 / Tools of the trade
+## 03 / Tools of the trade
 
 ### Languages
 
@@ -124,27 +79,11 @@ Learning by building — from HTTP tooling to Linux system exploration.
   <img src="./assets/stack/discord.svg" height="32" alt="Discord" />
 </p>
 
-<details>
-<summary><strong>Operating systems</strong></summary>
-
-<br />
-
-<p>
-  <img src="./assets/stack/linux.svg" height="32" alt="Linux" />
-  <img src="./assets/stack/kali.svg" height="32" alt="Kali Linux" />
-  <img src="./assets/stack/ubuntu.svg" height="32" alt="Ubuntu" />
-  <img src="./assets/stack/debian.svg" height="32" alt="Debian" />
-  <img src="./assets/stack/mint.svg" height="32" alt="Linux Mint" />
-  <img src="./assets/stack/windows.svg" height="32" alt="Windows" />
-</p>
-
-</details>
-
 <br />
 
 <a name="security"></a>
 
-## 05 / Security lab
+## 04 / Security lab
 
 Learning through **CTFs, hands-on challenges and authorized labs** — understanding the system, finding the weakness, and learning why it exists.
 
@@ -156,13 +95,9 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 
 <!-- Replace the Hack The Box website URL above with your public profile URL when available. -->
 
-<p align="center">
-  <code>Web security</code> &nbsp; <code>Linux internals</code> &nbsp; <code>Enumeration</code>
-</p>
-
 <br />
 
-## 06 / Activity
+## 05 / Activity
 
 <details>
 <summary><strong>Open GitHub statistics & contribution activity</strong></summary>
@@ -170,12 +105,12 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 <br />
 
 <p align="center">
-  <a href="https://github.com/siinomega"><img width="420" src="https://github-stats-extended.vercel.app/api?username=siinomega&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_color=302B40&amp;bg_color=111019&amp;title_color=B69BE8&amp;icon_color=B69BE8&amp;text_color=C4BDCF&amp;border_radius=12&amp;custom_title=GitHub+activity" alt="Sin Omega's public GitHub statistics" /></a>
-  <a href="https://github.com/siinomega"><img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siinomega&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_color=302B40&amp;bg_color=111019&amp;title_color=B69BE8&amp;text_color=C4BDCF&amp;border_radius=12&amp;custom_title=Languages+in+public+code" alt="Language distribution across public repositories" /></a>
+  <a href="https://github.com/siinomega"><img width="420" src="https://github-stats-extended.vercel.app/api?username=siinomega&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_color=2A333E&amp;bg_color=10151C&amp;title_color=B59AE5&amp;icon_color=B59AE5&amp;text_color=B8C1CC&amp;border_radius=12&amp;custom_title=GitHub+activity" alt="Sin Omega's public GitHub statistics" /></a>
+  <a href="https://github.com/siinomega"><img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siinomega&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_color=2A333E&amp;bg_color=10151C&amp;title_color=B59AE5&amp;text_color=B8C1CC&amp;border_radius=12&amp;custom_title=Languages+in+public+code" alt="Language distribution across public repositories" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/siinomega"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&amp;bg_color=111019&amp;color=C4BDCF&amp;line=A78BFA&amp;point=B69BE8&amp;area=true&amp;area_color=40305E&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution+activity" alt="GitHub contribution activity graph" /></a>
+  <a href="https://github.com/siinomega"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siinomega&amp;bg_color=10151C&amp;color=B8C1CC&amp;line=9B7BCB&amp;point=B59AE5&amp;area=true&amp;area_color=493A62&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution+activity" alt="GitHub contribution activity graph" /></a>
 </p>
 
 <p align="center">
@@ -197,10 +132,5 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
   <p><sub>Development &nbsp; / &nbsp; Cybersecurity &nbsp; / &nbsp; Artificial Intelligence</sub></p>
 
   <a href="https://github.com/siinomega"><sub>@siinomega</sub></a>
-
-  <br />
-  <br />
-
-  <sub>ASCII art: <a href="https://ascii.rest/kyoto-dusk/">Kyoto Dusk</a> by <a href="https://github.com/bas3line">bas3line</a>.</sub>
 
 </div>
