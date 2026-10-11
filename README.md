@@ -13,7 +13,7 @@
 
 <a name="about"></a>
 
-## 01 / Behind the handle
+## ✦ Behind the handle
 
 I'm **Omega** a developer and cybersecurity enthusiast drawn to what happens beneath the interface.
 
@@ -27,7 +27,7 @@ I build with **Rust, Python, JavaScript and Bash**, explore artificial intellige
 ```python
 class SinOmega:
     interests = ["Development", "Cybersecurity", "Artificial Intelligence"]
-    languages = ["Rust", "Python", "JavaScript", "Bash"]
+    languages = ["Rust", "Python", "TypeScript", "Bash"]
     mindset = "Understand how things work."
     objective = "Build. Explore. Improve."
 ```
@@ -36,7 +36,7 @@ class SinOmega:
 
 <br />
 
-## 02 / Three domains. One mindset.
+## ✦ Three domains. One mindset.
 
 <p align="center">
   <img src="./assets/development.svg" width="270" alt="Development — tools, automation and software; learning through clean code and hands-on experimentation. Rust, Python and JavaScript." />
@@ -46,44 +46,7 @@ class SinOmega:
 
 <a name="stack"></a>
 
-## 03 / Tools of the trade
-
-### Languages
-
-<p>
-  <img src="./assets/stack/rust.svg" height="32" alt="Rust" />
-  <img src="./assets/stack/python.svg" height="32" alt="Python" />
-  <img src="./assets/stack/javascript.svg" height="32" alt="JavaScript" />
-  <img src="./assets/stack/bash.svg" height="32" alt="Bash" />
-  <img src="./assets/stack/html.svg" height="32" alt="HTML" />
-  <img src="./assets/stack/css.svg" height="32" alt="CSS" />
-</p>
-
-### AI exploration
-
-<p>
-  <img src="./assets/stack/pytorch.svg" height="32" alt="PyTorch" />
-  <img src="./assets/stack/tensorflow.svg" height="32" alt="TensorFlow" />
-</p>
-
-### Tools & technologies
-
-<p>
-  <img src="./assets/stack/git.svg" height="32" alt="Git" />
-  <img src="./assets/stack/github.svg" height="32" alt="GitHub" />
-  <img src="./assets/stack/gitlab.svg" height="32" alt="GitLab" />
-  <img src="./assets/stack/docker.svg" height="32" alt="Docker" />
-  <img src="./assets/stack/mongodb.svg" height="32" alt="MongoDB" />
-  <img src="./assets/stack/postman.svg" height="32" alt="Postman" />
-  <img src="./assets/stack/vite.svg" height="32" alt="Vite" />
-  <img src="./assets/stack/discord.svg" height="32" alt="Discord" />
-</p>
-
-<br />
-
-<a name="security"></a>
-
-## 04 / Security lab
+## ✦ Security lab
 
 Learning through **CTFs, hands-on challenges and authorized labs** — understanding the system, finding the weakness, and learning why it exists.
 
@@ -97,7 +60,7 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 
 <br />
 
-## 05 / Activity
+## ✦ Activity
 
 <details>
 <summary><strong>Open GitHub statistics & contribution activity</strong></summary>
