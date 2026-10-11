@@ -56,15 +56,6 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
   <a href="https://www.hackthebox.com/"><img src="./assets/hackthebox.svg" width="270" alt="Hack The Box — training platform, not a personal profile link" /></a>
 </p>
 
-<!-- Replace the Hack The Box website URL above with your public profile URL when available. -->
-
-<br />
-
-## ✦ Activity
-
-<details>
-<summary><strong>Open GitHub statistics & contribution activity</strong></summary>
-
 <br />
 
 <p align="center">
