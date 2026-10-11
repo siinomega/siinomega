@@ -1,11 +1,3 @@
-<!--
-  SIN OMEGA / KYOTO DUSK / GRAPHITE & VIOLET
-  Copy README.md and the complete assets/ directory to siinomega/siinomega.
-  The Kyoto Dusk GIF, its still frame and all cards are included in assets/.
-  Only the optional activity panel uses remote images.
-  Kyoto Dusk: ascii.rest / bas3line, MIT. See assets/credits/.
--->
-
 <div align="center">
 
   <a href="https://ascii.rest/kyoto-dusk/">
@@ -23,7 +15,7 @@
 
 ## 01 / Behind the handle
 
-I'm **Sin** — a developer and cybersecurity enthusiast drawn to what happens beneath the interface.
+I'm **Omega** a developer and cybersecurity enthusiast drawn to what happens beneath the interface.
 
 I build with **Rust, Python, JavaScript and Bash**, explore artificial intelligence, and learn security through experimentation. From software and local models to vulnerabilities and system internals, I like turning questions into something I can test.
 
