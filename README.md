@@ -21,21 +21,6 @@ I build with **Rust, Python, JavaScript and Bash**, explore artificial intellige
 
 > **Don't just use technology. Understand it.**
 
-<details>
-<summary><code>$ cat about_me.py</code></summary>
-
-<code>
-```python
-class SinOmega:
-    interests = ["Development", "Cybersecurity", "Artificial Intelligence"]
-    languages = ["Rust", "Python", "TypeScript", "Bash"]
-    mindset = "Understand how things work."
-    objective = "Build. Explore. Improve."
-```
-<code>
-
-</details>
-
 <br />
 
 ## ✦ Three domains. One mindset.
