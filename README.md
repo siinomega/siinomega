@@ -24,6 +24,7 @@ I build with **Rust, Python, JavaScript and Bash**, explore artificial intellige
 <details>
 <summary><code>$ cat about_me.py</code></summary>
 
+<code>
 ```python
 class SinOmega:
     interests = ["Development", "Cybersecurity", "Artificial Intelligence"]
@@ -31,6 +32,7 @@ class SinOmega:
     mindset = "Understand how things work."
     objective = "Build. Explore. Improve."
 ```
+<code>
 
 </details>
 
