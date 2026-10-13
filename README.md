@@ -40,7 +40,7 @@ Learning through **CTFs, hands-on challenges and authorized labs** — understan
 <p align="center">
   <a href="https://tryhackme.com/p/Hearthbleed"><img src="./assets/tryhackme.svg" width="270" alt="TryHackMe — my Hearthbleed profile" /></a>
   <a href="https://www.root-me.org/sin-omega"><img src="./assets/root-me.svg" width="270" alt="Root-Me — my sin-omega profile" /></a>
-  <a href="https://www.hackthebox.com/"><img src="./assets/hackthebox.svg" width="270" alt="Hack The Box — training platform, not a personal profile link" /></a>
+  <a href="https://profile.hackthebox.com/profile/01a128b8-5f9e-72dc-a965-e2c9150afc97"><img src="./assets/hackthebox.svg" width="270" alt="Hack The Box — training platform, not a personal profile link" /></a>
 </p>
 
 <p align="center">
